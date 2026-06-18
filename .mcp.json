@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "chatsum": {
+      "command": "node",
+      "args": ["/home/user/mcp-server-chatsum/build/index.js"],
+      "env": {
+        "CHAT_DB_PATH": ""
+      }
+    }
+  }
+}
