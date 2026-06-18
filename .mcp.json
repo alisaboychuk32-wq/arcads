@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arcade": {
+      "command": "arcade-mcp",
+      "args": []
+    }
+  }
+}
