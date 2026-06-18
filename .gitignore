@@ -23,6 +23,9 @@ references/
 !references/README.md
 
 
+# CodeGraph local index (binary, machine-specific)
+.codegraph/
+
 # Disposable one-off thumbnail iteration scripts (not the canonical skill script)
 scripts/generate-thumbnails.sh
 scripts/generate-thumbnails-*.sh
